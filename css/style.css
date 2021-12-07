@@ -1,0 +1,9 @@
+.top{
+    display: flex;
+    padding-left: 50px
+    ;
+    background-color: greenyellow;
+}
+.con{
+    padding-left:20px;
+}
